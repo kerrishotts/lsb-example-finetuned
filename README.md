@@ -6,9 +6,9 @@ In this example the launch image mirrors the typical Cordova launch image, and t
 
 The primary launch image is below:
 
-![Launch Image](./www/res/screen/ios/Default@2x~universal~anyany.png)
+![Launch Image](./res/screen/ios/Default@2x~universal~anyany.png)
 
-All the other launch images are derivations of this image. [See other images](./www/res/screen/ios/)
+All the other launch images are derivations of this image. [See other images](./res/screen/ios/)
 
 [View iOS simulation](https://cdn.rawgit.com/kerrishotts/launch-storyboard-images-previewer/0.3-release/index.html?at2x-universal-comany=examples/cordova-robot/Default@2x%7Euniversal%7Ecomany.png&at2x-universal-comcom=examples/cordova-robot/Default@2x%7Euniversal%7Ecomcom.png&at3x-universal-anyany=examples/cordova-robot/Default@3x%7Euniversal%7Eanyany.png&at3x-universal-comany=examples/cordova-robot/Default@3x%7Euniversal%7Ecomany.png&at3x-universal-anycom=examples/cordova-robot/Default@3x%7Euniversal%7Eanycom.png&at2x-universal-anyany=examples/cordova-robot/Default@2x%7Euniversal%7Eanyany.png)
 
